@@ -127,7 +127,8 @@ int main()
             printf("Saindo...\n");
             break;
         default:
-            printf("Opção inválida.\n");
+            printf("Opção inválida.\n"); // teste
+            
         }
     }
     while (opcao != 5);
